@@ -1,9 +1,7 @@
 Django and MySQL on OpenShift
 ===================
 
-This git repository helps you get up and running quickly with a Django
-and MySQL installation on OpenShift.
-
+This git repository will help you get everything up and running with Django 1.4 and MySQL 1.5.1 on the OpenShift platform.  Just follow the directions below and you will be all set to go.
 
 Running on OpenShift
 --------------------
