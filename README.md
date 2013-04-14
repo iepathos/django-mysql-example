@@ -36,7 +36,7 @@ Admin user name and password
 ----------------------------
 SSH to your application to create a super user for your new Django and MySQL app
 
-    ssh <uuid>@django-$yournamespace.rhcloud.com
+    ssh $uuid@django-$yournamespace.rhcloud.com
     
 Activate virtual environment
 
